@@ -20,7 +20,7 @@ GitHub – Triển khai
 ### Clone & Run
 
 ```bash
-git clone https://github.com/win11nt/react-native-habit-tracker
+git clone https://github.com/win11nt/Todo-App-with-MERN-Stack-2025.git
 cd backend 
 npm install
 node src/server.js
