@@ -1,19 +1,21 @@
+📝 Todo App (MERN Stack)
 
-Đây là một ứng dụng Todo App hiện đại bằng React.js, Express, Node.js và MongoDB. Ứng dụng cho phép người dùng thêm mới, sửa và xóa công việc. Lọc nhiệm vụ theo trạng thái đã hoàn thành, đang làm, hoặc theo tuần hoặc tháng.
+This is a modern Todo Application built with React.js, Express, Node.js, and MongoDB.
+The app allows users to create, edit, and delete tasks, as well as filter tasks by completion status (completed / in progress) or by week and month.
 
 ---
 
 ## Tech
 
-React.js – Thư viện JavaScript để xây dựng giao diện web (UI) theo dạng component.
+React.js – A JavaScript library for building user interfaces using a component-based architecture.
 
-Express –  Framework cho Node.js, dùng để xây dựng API và backend server.
+Express – A lightweight framework for Node.js used to build APIs and backend services.
 
-Node.js – Môi trường chạy JavaScript phía server, hỗ trợ xử lý bất đồng bộ và xây dựng backend.
+Node.js – A JavaScript runtime environment for server-side development with asynchronous processing.
 
-MongoDB –  Cơ sở dữ liệu NoSQL dạng document, lưu trữ dữ liệu linh hoạt và dễ mở rộng.
+MongoDB – A NoSQL document-based database that provides flexible and scalable data storage.
 
-GitHub – Triển khai 
+GitHub – Used for source code hosting and project deployment.
 
 ---
 
@@ -25,7 +27,7 @@ cd backend
 npm install
 node src/server.js
 ````
-Open terminal ở tab mới
+Open new terminal
 ```bash
 cd frontend
 npm install
@@ -36,27 +38,27 @@ npm run dev
 ## 🖼️ Demo
 
 <div align="center">
-  <h2>Giao diện</h2>
+  <h2>User Interface</h2>
   <img src="./frontend/src/assets/giaodien.png" width="600" style="object-fit:cover;" />
 </div>
 
 <div align="center">
-  <h2>Thêm</h2>
+  <h2>Add Task</h2>
   <img src="./frontend/src/assets/add.png" width="600" style="object-fit:cover;" />
 </div>
 
 <div align="center">
-  <h2>Hoàn thành</h2>
+  <h2>Completed Task</h2>
   <img src="./frontend/src/assets/hoanthanh.png" width="600" style="object-fit:cover;" />
 </div>
 
 <div align="center">
-  <h2>Xóa</h2>
+  <h2>Delete Task</h2>
   <img src="./frontend/src/assets/xoa.png" width="600" style="object-fit:cover;" />
 </div>
 
 <div align="center">
-  <h2>Lọc</h2>
+  <h2>Filter Tasks</h2>
   <img src="./frontend/src/assets/filter.png" width="600" style="object-fit:cover;" />
 </div>
 
