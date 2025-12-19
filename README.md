@@ -36,28 +36,28 @@ npm run dev
 ## 🖼️ Demo
 
 <div align="center">
-  <h4>Giao diện</h4>
-  <img src="./frontend/src/assets/giaodien.png" width="500" style="object-fit:cover;" />
+  <h2>Giao diện</h2>
+  <img src="./frontend/src/assets/giaodien.png" width="600" style="object-fit:cover;" />
 </div>
 
 <div align="center">
-  <h4>Thêm</h4>
-  <img src="./frontend/src/assets/add.png" width="500" style="object-fit:cover;" />
+  <h2>Thêm</h2>
+  <img src="./frontend/src/assets/add.png" width="600" style="object-fit:cover;" />
 </div>
 
 <div align="center">
-  <h4>Hoàn thành</h4>
-  <img src="./frontend/src/assets/hoanthanh.png" width="500" style="object-fit:cover;" />
+  <h2>Hoàn thành</h2>
+  <img src="./frontend/src/assets/hoanthanh.png" width="600" style="object-fit:cover;" />
 </div>
 
 <div align="center">
-  <h4>Xóa</h4>
-  <img src="./frontend/src/assets/xoa.png" width="500" style="object-fit:cover;" />
+  <h2>Xóa</h2>
+  <img src="./frontend/src/assets/xoa.png" width="600" style="object-fit:cover;" />
 </div>
 
 <div align="center">
-  <h4>Lọc</h4>
-  <img src="./frontend/src/assets/filter.png" width="500" style="object-fit:cover;" />
+  <h2>Lọc</h2>
+  <img src="./frontend/src/assets/filter.png" width="600" style="object-fit:cover;" />
 </div>
 
 ---
