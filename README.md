@@ -33,15 +33,31 @@ npm run dev
 ````
 ---
 
-<div align="center">
-
 ## 🖼️ Demo
 
-| Giao diện | Thêm | Hoàn thành | Xóa | Lọc |
-|-----------|------|------------|-----|-----|
-| <img src="./frontend/src/assets/giaodien.png" width="200" height="200" style="object-fit:cover;" /> | <img src="./frontend/src/assets/add.png" width="200" height="200" style="object-fit:cover;" /> | <img src="./frontend/src/assets/hoanthanh.png" width="200" height="200" style="object-fit:cover;" /> | <img src="./frontend/src/assets/xoa.png" width="200" height="200" style="object-fit:cover;" /> | <img src="./frontend/src/assets/filter.png" width="200" height="200" style="object-fit:cover;" /> |
-
+<div align="center">
+  <h4>Giao diện</h4>
+  <img src="./frontend/src/assets/giaodien.png" width="250" height="250" style="object-fit:cover;" />
 </div>
 
+<div align="center">
+  <h4>Thêm</h4>
+  <img src="./frontend/src/assets/add.png" width="250" height="250" style="object-fit:cover;" />
+</div>
+
+<div align="center">
+  <h4>Hoàn thành</h4>
+  <img src="./frontend/src/assets/hoanthanh.png" width="250" height="250" style="object-fit:cover;" />
+</div>
+
+<div align="center">
+  <h4>Xóa</h4>
+  <img src="./frontend/src/assets/xoa.png" width="250" height="250" style="object-fit:cover;" />
+</div>
+
+<div align="center">
+  <h4>Lọc</h4>
+  <img src="./frontend/src/assets/filter.png" width="250" height="250" style="object-fit:cover;" />
+</div>
 
 ---
